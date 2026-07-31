@@ -149,7 +149,7 @@
     "eslint-plugin-svelte": "^2.44.1",
     "husky": "^9.0.0",
     "lint-staged": "^15.0.0",
-    "postcss": "^8.4.21",
+    "postcss": "^8.5.18",
     "postcss-load-config": "^6.0.0",
     "prettier": "^3.0.3",
     "prettier-plugin-import-sort": "^0.0.7",
